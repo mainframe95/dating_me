@@ -6,7 +6,8 @@ ORM_MIGRATION_SQLITE = {
         "models": {
             "models": [
                 "models",
-                "aerich.models"],
+                "aerich.models"
+                ],
             "default_connection": "default",
         },
     },
